@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710990840715",
+    "firebase_url": "https://uas-frisca-default-rtdb.firebaseio.com",
+    "project_id": "uas-frisca",
+    "storage_bucket": "uas-frisca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710990840715:android:fa5e6089c619843d47258e",
+        "android_client_info": {
+          "package_name": "com.frisca.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710990840715-eine0fl9q3aqk3s92s925fbvieh44g04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBfLFs0xQahFa706K7kRy_57R8KlYGIC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710990840715-eine0fl9q3aqk3s92s925fbvieh44g04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
